@@ -22,6 +22,10 @@ b {
   color: #eee;
 }
 
+h2 {
+    font-family: kalam_regular;
+}
+
 a {
   color: #8cc2dd;
 }
@@ -144,4 +148,11 @@ h3.blog-filter {
   color: currentColor;
   cursor: not-allowed;
   opacity: 0.7;
+}
+
+@font-face {
+    font-family: 'kalam_regular';
+    src: url('/fonts/Kalam-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
 }
