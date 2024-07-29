@@ -22,8 +22,13 @@ b {
   color: #eee;
 }
 
-h2 {
-    font-family: kalam_regular;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: kalam_regular, Verdana, sans-serif;
 }
 
 a {
@@ -152,6 +157,7 @@ h3.blog-filter {
 
 @font-face {
     font-family: 'kalam_regular';
+    /* font must be present at this path in site itself */
     src: url('/fonts/Kalam-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
