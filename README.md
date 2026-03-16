@@ -1,3 +1,7 @@
+> [!CAUTION]
+> Hugo is backwards-compatibility-breaking piece of crap, the ecosystem is brimming with analytics shit and I just don't want to deal with it anymore. My blog is now powered by org-mode and plain ol' CSS that will continue to work long after Hugo is dead and gone. This repo is now archived for good.
+
+
 # ᕦʕ •ᴥ•ʔᕤ Bear Cub
 
 [![github pages](https://github.com/clente/hugo-bearcub/actions/workflows/gh-pages.yml/badge.svg)](https://github.com/clente/hugo-bearcub/actions/workflows/gh-pages.yml)
